@@ -17,8 +17,6 @@ A modern, responsive ecommerce website built with HTML, CSS, and JavaScript. The
 - Downloadable app promo section
 - Modern UI with CSS effects
 
-## Demo
-
 
 ## Project Structure
 
@@ -46,3 +44,5 @@ Build and Deploy Ecommerce Website/
 └── README.md      # Project documentation
 ```
 
+
+> **Live Demo:** [Click Here](https://vaishnav0720.github.io/Build-and-Deploy-Ecommerce-Website/)
